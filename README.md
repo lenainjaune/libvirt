@@ -10,7 +10,7 @@ user@host~$ nmap -sP 192.168.0.0/24
 user@host~$ virsh list
  ID    Nom                            État
 ----------------------------------------------------
- 3     buster                en cours d'exécution
+ 3     buster                en cours d\'exécution
 
 user@host~$ d=buster
 user@host~$ for m in $(\
