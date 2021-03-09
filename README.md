@@ -3,6 +3,9 @@ Mémo des commandes libvirt et virt-manager
 
 # Trouver la ou les IPs d'un domaine depuis l'hôte
 ```sh
+# Peupler arp
+user@host~$ nmap -sP 192.168.0.0/24
+
 # lister les domaines
 user@host~$ virsh list
  ID    Nom                            État
