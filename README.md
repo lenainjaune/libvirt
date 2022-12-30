@@ -1,3 +1,51 @@
+RO en attente de la fin de migration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # libvirt
 Mémo des commandes libvirt et virt-manager
 
